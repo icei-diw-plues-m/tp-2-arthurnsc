@@ -6,4 +6,4 @@
 - Matricula: 918345
 
 ## Print da tela da página criada (Curriculum Vitae)
-![print](cv.png)
+![print](public/cv.png)
