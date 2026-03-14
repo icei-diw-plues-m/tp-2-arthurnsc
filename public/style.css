@@ -1,0 +1,77 @@
+body{
+    background: rgb(84, 142, 207);
+    font:  19pt normal;
+}
+#nome{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 25pt;
+}
+img{
+    width: 225px;
+    border-radius: 50%;
+    border: solid 1px rgb(255, 255, 255);
+}
+h1{
+    margin-left: 20px;
+    font-size: larger;
+    color: rgb(0, 0, 0);
+}
+header{
+    margin-top: 40px;
+    background: rgb(188, 210, 235);
+    padding: 15px;
+    margin-left: 60px;
+    margin-right: 60px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 200px;
+    box-shadow: 3px 5px 15px rgb(51, 54, 54);
+}
+section{
+    padding: 70px;
+    margin-top: 40px;
+    background: rgb(188, 210, 235);
+    margin-left: 60px;
+    margin-right: 60px;
+    box-shadow: 3px 5px 15px rgb(51, 54, 54);
+    padding-top: 10px;
+}
+h3{
+    margin-left: 37px;
+}
+h4{
+    
+    font-size: medium;
+    margin-bottom: 10px;
+    margin-top: 5px;
+}
+.divinfo{
+    margin-top: 60px;
+    margin-left: 40px;
+}
+ul{
+    margin-top: -10px;
+    font-size:smaller;
+}
+.info{
+    margin-top: 5px;
+}
+#tit{
+    margin-top: 10px;
+}
+.habilidades{
+    display: flex;
+    gap: 60px;
+}
+.divdireita{
+    font-size: 22px;
+    margin-top: -170px;
+    float: right;
+    margin-right: 60px;
+    max-width: 40%;
+}
+#titdireita{
+    margin-top: -10px;
+    margin-left: 400px;
+}
